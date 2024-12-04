@@ -1,3 +1,3 @@
 #!/bin/bash
-sed -n '1,45p' $HOME/.bash_history > output.txt
+sed -n '3,45p' $HOME/.bash_history > output.txt
 

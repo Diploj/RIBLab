@@ -1,5 +1,3 @@
-#!/bin/sh
-set -e
 OS_NAME=$(uname -s)
 JB_PRODUCTS="idea clion phpstorm goland pycharm webstorm webide rider datagrip rubymine appcode dataspell gateway jetbrains_client jetbrainsclient studio devecostudio"
 BASE_PATH=$(dirname $(
