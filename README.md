@@ -4,4 +4,6 @@
 Так как он короткий я изменил 12 на 3
 ![image](https://github.com/user-attachments/assets/4f7eddd7-39d8-47fc-8b57-ccae0b147b21)
 
+![image](https://github.com/user-attachments/assets/e0ea1320-2f2a-4de8-b373-50ce2fad55d7)
+
 ![image](https://github.com/user-attachments/assets/f4c62dae-aa04-45b6-8428-b7f0ebea07f3)
